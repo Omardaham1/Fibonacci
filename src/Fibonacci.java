@@ -1,16 +1,8 @@
-/**
- * Fibonacci Calculator
- *
- * Calculates Fibonacci numbers using recursion.
- *
- * @author [Your Name]
- */
-
- public class Fibonacci {
+public class Fibonacci {
 
     /**
      * Calculates the nth Fibonacci number.
-     *
+     
      * @param n the index of the Fibonacci number
      * @return the nth Fibonacci number
      */
@@ -24,9 +16,9 @@
 
     /**
      * Main entry point.
-     *
+     
      * Accepts a command-line argument (index) and prints the corresponding Fibonacci number.
-     *
+     
      * @param args command-line arguments (index)
      */
     public static void main(String[] args) {
